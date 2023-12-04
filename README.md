@@ -1,4 +1,4 @@
-# face-roblox-spawwer
+# face-roblox-spapper
 
 This program adding a roblox face on faces/face on a image 
 
