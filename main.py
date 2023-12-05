@@ -13,7 +13,7 @@ if not exists(image_path):
     print("This path doesn't exist.")
     exit(1)
 
-cut_backround  = True if input().lower() == 'y' else False 
+cut_backround  = True if input("Cut a backround [y/n]").lower() == 'y' else False 
 
 dirname = os.path.dirname(__file__)
 filename = os.path.join(dirname, 'roblox face.png')
